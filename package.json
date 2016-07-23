@@ -1,0 +1,23 @@
+{
+  "name": "mbnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiosantoscode/mbnet.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fabiosantoscode/mbnet/issues"
+  },
+  "homepage": "https://github.com/fabiosantoscode/mbnet#readme",
+  "dependencies": {
+    "jsdom": "^9.4.1",
+    "minimist": "^1.2.0"
+  }
+}
